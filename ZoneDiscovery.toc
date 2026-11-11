@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Zone Discovery
+## Notes: Shows explored and unexplored parts of your current zone.
+## Author: atr2982
+## Version: 1.0.0
+## SavedVariables: ZoneDiscoveryDB
+
+ZoneDiscoveryData.lua
+ZoneDiscovery.lua
